@@ -1,4 +1,4 @@
-package com.helloWorld;
+package com.halloWorld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,9 +6,9 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableFeignClients
-public class OpenFeignDemoHbkApplication {
+public class OpenFeignExampleApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(OpenFeignDemoHbkApplication.class, args);
+    SpringApplication.run(OpenFeignExampleApplication.class, args);
   }
 }

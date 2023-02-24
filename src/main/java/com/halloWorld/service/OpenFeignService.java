@@ -1,7 +1,7 @@
-package com.helloWorld.service;
+package com.halloWorld.service;
 
-import com.helloWorld.dto.Topic;
-import com.helloWorld.restclient.TopicFeignClient;
+import com.halloWorld.dto.Topic;
+import com.halloWorld.restclient.TopicFeignClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,7 @@
-package com.helloWorld.controller;
+package com.halloWorld.controller;
 
-import com.helloWorld.dto.Topic;
-import com.helloWorld.service.OpenFeignService;
+import com.halloWorld.dto.Topic;
+import com.halloWorld.service.OpenFeignService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
